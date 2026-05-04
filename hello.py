@@ -1,1 +1,1 @@
-prit("Hello, Nijamuddin Khan Siddiqui!")
+print("Hello, Nijamuddin Khan Siddiqui!")
